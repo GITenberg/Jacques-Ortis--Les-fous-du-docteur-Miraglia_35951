@@ -1,0 +1,44 @@
+_repo: Jacques-Ortis--Les-fous-du-docteur-Miraglia_35951
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foscolo, Ugo
+    aliases:
+    - Foscolo, Niccolò
+    - Foscolo, Niccolo
+    - Didimo, Chierico
+    birthdate: 1778
+    deathdate: 1827
+    gutenberg_agent_id: '44491'
+    url: http://www.gutenberg.org/2009/agents/44491
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35951'
+  lccn: '33038135'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Jacques Ortis; Les fous du docteur Miraglia
+url: http://www.gutenberg.org/ebooks/35951
