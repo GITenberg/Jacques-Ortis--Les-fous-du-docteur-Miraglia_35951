@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '44491'
     url: http://www.gutenberg.org/2009/agents/44491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35951#Jacques-Ortis--Les-fous-du-docteur-Miraglia
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-04-24'
 gutenberg_type: Text
